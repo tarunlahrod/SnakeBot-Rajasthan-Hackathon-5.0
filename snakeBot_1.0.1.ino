@@ -1,3 +1,4 @@
+//SNAKE BOT
 #include<Servo.h>
 Servo S[10];
 
